@@ -1,4 +1,4 @@
-# Weather-Site
+ # Weather-Site
 
 
 Welcome to the Weather Site! This simple web application allows you to check the temperature at your current location and search for weather information in other locations as well.
